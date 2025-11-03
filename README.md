@@ -1,0 +1,1 @@
+# Deteccao-de-Doencas-em-Folhas-de-Soja-com-o-Dataset-ASDID
