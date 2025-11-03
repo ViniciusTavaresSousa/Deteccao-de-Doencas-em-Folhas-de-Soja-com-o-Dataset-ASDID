@@ -40,16 +40,16 @@ Para aumentar a variedade de amostras e melhorar a generalização do modelo, fo
 
 Você pode carregar diretamente o arquivo `.npy` com o dataset:
 
-🔗 [Download do dataset `dataset.npy` no Google Drive](https://drive.google.com/file/d/1ZTY4oiZTJBYCCkL-T12e3YQHeJavtbkP/view?usp=sharing)
+🔗 [Download do dataset `dataset.npy` no Google Drive](https://drive.google.com/file/d/19NlnXMCGsX9uOP7ttoijoFh2vatFIpiQ/view?usp=sharing)
 
 ## Resultados
 
-<p align="center"><strong>Exemplo de classificação de folhas de soja</strong></p>
+<p align="center"><strong>Resultados</strong></p>
 <div align="center">
-  <img src="Resultados/classificacao_exemplo.png" width="600" alt="Exemplo de classificação"/>
+  <img src="Resultados/Resultados.png" width="600" alt="Exemplo de classificação"/>
 </div>
 
-O título das imagens indica a **classe real (T)** e a **classe prevista pelo modelo (P)**. A CNN atingiu acurácia consistente de validação em torno de 78–80%, mostrando bom desempenho para identificação das doenças.
+O título das imagens indica a **classe real (T)** e a **classe prevista pelo modelo (P)**. A CNN atingiu acurácia consistente de validação de 80%, mostrando bom desempenho para identificação das doenças.
 
 ## Licença
 
