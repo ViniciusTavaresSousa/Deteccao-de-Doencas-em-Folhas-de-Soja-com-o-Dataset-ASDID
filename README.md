@@ -49,7 +49,7 @@ Você pode carregar diretamente o arquivo `.npy` com o dataset:
   <img src="Resultados/Resultados.png" width="600" alt="Exemplo de classificação"/>
 </div>
 
-O título das imagens indica a **classe real (T)** e a **classe prevista pelo modelo (P)**. A CNN atingiu acurácia consistente de validação de 80%, mostrando bom desempenho para identificação das doenças.
+O título das imagens indica a **classe real (T)** e a **classe prevista pelo modelo (P)**. A CNN atingiu acurácia consistente de validação de 83%, mostrando bom desempenho para identificação das doenças.
 
 ## Licença
 
