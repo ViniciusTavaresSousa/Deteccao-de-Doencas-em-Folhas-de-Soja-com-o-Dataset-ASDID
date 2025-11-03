@@ -1,6 +1,6 @@
 <div align="center">
 
-# Detecção de Doenças na Soja com CNN e Dataset ASDID
+# Detecção de Doenças em Folhas de Soja com o Dataset ASDID
 
 ---
 
